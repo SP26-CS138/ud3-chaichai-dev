@@ -1,0 +1,21 @@
+Action~Bloodsport
+Adventure~The Mummy
+Comedy~The Other Guys
+Drama~Good Will Hunting
+Horror~Child's Play
+Science-Fiction~Interstellar
+Fantasy~Harry Potter and The Goblet of Fire
+Martial Arts~IP Man
+Romance~The Notebook
+Romantic Comedy~Crazy, Stupid, Love
+Mystery~Sherlock Holmes
+Musical~La La Land
+Animation~The Incredibles
+Sports~Coach Carter
+Western~Django Unchained
+
+
+
+
+
+
