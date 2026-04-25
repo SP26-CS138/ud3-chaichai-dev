@@ -117,6 +117,11 @@ def write_to_file (out_file_name, text_to_write):
 def main():
     #CALL THE IMPORT FILE FUNCTION TO LOAD IN YOUR MOVIE LIST .TXT FILE AND SAVE IN PROGRAM AS A DICTIONARY 
     dict = movie_dictionary ('fav_movies.txt')
+
+    '''Dictionary data structure was used due to the fact that the information in the input file is grouped together due to similar properties
+     and the dictionary allows for easy access to the movie title simply by looking up the genre/key. 
+     Some common tasks performed in this program are searching, inserting, and deleting so it is advatageous to use key value pairs as opposed
+      to using a list and having to iterate through the list index by index. '''
     print()
     print ("Welcome to the Movie Selector!\n")
 
